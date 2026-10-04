@@ -54,24 +54,24 @@ Three R34s, each with its own weather. All of it is drawn in CSS: Discord stays 
 
 <br>
 
-## `03` New in 0.9.8
+## `03` New in 0.9.9
 
 | | |
 |---|---|
-| **Repairs itself** | Discord updated and Nexocord is gone? A notification pops up, one click puts it back. |
-| **Plugin store** | BetterDiscord's reviewed plugins, each pinned to the exact version that was reviewed. |
-| **Share your server** | Copy a short code in Templates & Roles; a friend builds the same layout from it. |
-| **Quiet hours** | Do Not Disturb between two times. The people you pick still get through. |
-| **Focus mode** | Hide every server and DM except the ones you keep, for 30 minutes to 2 hours. |
-| **Second Discord** | Discord PTB or Canary get their own Nexocord with separate settings. |
-| **Updates itself** | The installer shows an update button when a new version lands here. |
+| **A brand-new installer** | Your R34 on a showroom turntable, calmer screens, clear choices. |
+| **Manage Nexocord** | Repair, safe mode, start without mods and uninstall in one clean screen. |
+| **Nexocord in your taskbar** | Discord's window and shortcuts wear the Nexocord emblem. |
+| **Readable voice tips** | Discord's voice panel tip is dark glass now instead of light text on white. |
+| **Repairs itself** | A Discord update removed Nexocord? A notification, one click puts it back. |
+| **Plugin store** | BetterDiscord's reviewed plugins, pinned to the exact reviewed version. |
+| **Quiet hours and focus mode** | Do Not Disturb between two times, or hide everything except what you pick. |
 
 <br>
 
 ## `04` Installing
 
 <div align="center">
-<img src="assets/installer.png" alt="The Nexocord installer" width="80%">
+<img src="assets/installer.png" alt="The Nexocord installer: your R34 on a turntable" width="80%">
 </div>
 
 <details>
@@ -80,6 +80,8 @@ Three R34s, each with its own weather. All of it is drawn in CSS: Discord stays 
 1. Download **[Install Nexocord.exe](https://github.com/Lokidook/Nexocord-releases/releases/latest/download/Install.Nexocord.exe)**.
 2. Double-click it. If Windows says "Windows protected your PC", click **More info → Run anyway** (the installer isn't signed with a paid certificate).
 3. **Let's go → Continue → Install Nexocord.** It closes Discord, installs, and starts Discord again.
+
+To repair or remove it later: Start menu → **Nexocord Setup** → Manage.
 
 Nexocord is in Discord's settings afterwards, and the Nexova theme is already on.
 </details>
