@@ -29,7 +29,7 @@
 <tr>
 <td width="25%" align="center"><h2>350+</h2><sub>PLUGINS</sub></td>
 <td width="25%" align="center"><h2>40</h2><sub>SERVER TEMPLATES</sub></td>
-<td width="25%" align="center"><h2>75</h2><sub>BOT COMMANDS</sub></td>
+<td width="25%" align="center"><h2>95</h2><sub>BOT COMMANDS</sub></td>
 <td width="25%" align="center"><h2>4</h2><sub>PLATFORMS</sub></td>
 </tr>
 </table>
@@ -70,7 +70,7 @@ A Nexocord tab in Discord's own Shop, and a Nexocord section in Discord's decora
 A whole server in a minute: 40 templates, 50 ready-made roles, every permission explained. Share your layout with friends as a code.
 </td>
 <td width="50%" valign="top">
-<img src="assets/nexbot.png" alt="NexBot, 75 commands">
+<img src="assets/nexbot.png" alt="NexBot, 95 commands">
 <h3>NexBot</h3>
 The tool bot that comes with it: tickets, levels, giveaways, welcome, moderation, a server log. It sets itself up in the channels the template made.
 </td>
