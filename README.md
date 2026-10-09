@@ -25,12 +25,6 @@
 
 <br>
 
-<div align="center">
-<img src="assets/drive-in.gif" alt="The Bayside Blue R34 drives in through the rain and honks" width="100%">
-</div>
-
-<br>
-
 <table>
 <tr>
 <td width="25%" align="center"><h2>350+</h2><sub>PLUGINS</sub></td>
