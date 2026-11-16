@@ -28,8 +28,8 @@
 <table>
 <tr>
 <td width="25%" align="center"><h2>350+</h2><sub>PLUGINS</sub></td>
-<td width="25%" align="center"><h2>40</h2><sub>SERVER TEMPLATES</sub></td>
-<td width="25%" align="center"><h2>95</h2><sub>BOT COMMANDS</sub></td>
+<td width="25%" align="center"><h2>41</h2><sub>SERVER TEMPLATES</sub></td>
+<td width="25%" align="center"><h2>96</h2><sub>BOT COMMANDS</sub></td>
 <td width="25%" align="center"><h2>4</h2><sub>PLATFORMS</sub></td>
 </tr>
 </table>
@@ -55,22 +55,22 @@ A night showroom behind glass. Pick your car and its weather: snow, rain or a th
 <td width="50%" valign="top">
 <img src="assets/badge.png" alt="A profile with the Nexocord badge">
 <h3>The Nexocord badge</h3>
-Every Nexocord user wears it. It turns gray when someone stopped using Nexocord. <b>New in 0.9.10.</b>
+Every Nexocord user wears it. It turns gray when someone stopped using Nexocord.
 </td>
 <td width="50%" valign="top">
 <img src="assets/cosmetics-carousel.png" alt="Nexocord avatar decorations">
 <h3>Free avatar decorations</h3>
-A Nexocord tab in Discord's own Shop, and a Nexocord section in Discord's decoration picker. <b>New in 0.9.10.</b>
+A Nexocord tab in Discord's own Shop, and a Nexocord section in Discord's decoration picker.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <img src="assets/templates.png" alt="Templates & Roles">
 <h3>Templates & Roles</h3>
-A whole server in a minute: 40 templates, 50 ready-made roles, every permission explained. Share your layout with friends as a code.
+A whole server in a minute: 41 templates, a German one for Notruf Hamburg communities included, 50 ready-made roles, every permission explained. Share your layout with friends as a code.
 </td>
 <td width="50%" valign="top">
-<img src="assets/nexbot.png" alt="NexBot, 95 commands">
+<img src="assets/nexbot.png" alt="NexBot, 96 commands">
 <h3>NexBot</h3>
 The tool bot that comes with it: tickets, levels, giveaways, welcome, moderation, a server log. It sets itself up in the channels the template made.
 </td>
@@ -156,20 +156,25 @@ A free Apple ID refreshes it every 7 days by itself.
 
 <br>
 
-## `04` New in 0.9.10
+## `04` New in 0.9.11
 
 | | |
 |---|---|
-| **The Nexocord badge** | On every Nexocord user's profile. Gray when someone stopped using Nexocord. |
-| **Nexocord in Discord's Shop** | A Nexocord tab with illustrated, animated decorations. All free. |
-| **Equip them like Discord's** | Nexocord decorations have their own section in *Change Decoration*. One at a time: Discord's or Nexocord's. |
-| **Installer fix** | No more *"Unpatching… Failed"* after a Discord update. |
+| **Works with the new Discord** | Discord's update from 13 November left a blank window with Nexocord. Fixed. |
+| **Notruf Hamburg template** | A small German server for a Notruf Hamburg community on Roblox, team and players together: support tickets, team applications with votes, a Trusted Friends area and a hidden admin area. |
+| **NexBot speaks German** | Welcome cards, level-ups, tickets and applications in German on German servers. `/setup language` switches it. |
+| **NexBot applications** | A form, staff votes, a discussion thread, accept or decline with a DM. 96 commands now. |
+| **Your own client** | Nexocord stands on its own: its own settings and badges, nothing pointing to other mods. |
+| **30 decorations** | Twenty new ones, redeem codes in the shop. |
+| **The trailer** | Plays the first time Nexocord starts and after each update. Off in the settings if you like. |
+| **This installer** | Rain at night, a tachometer while it installs, and a honk when it's done. |
 
 <details>
 <summary><b>Earlier versions</b></summary>
 
 | Version | Highlights |
 |---|---|
+| **0.9.10** | The Nexocord badge, a Nexocord tab in Discord's Shop with free decorations, installer fix for *"Unpatching… Failed"*. |
 | **0.9.9** | New installer with your R34 on a turntable, Manage screen, Nexocord emblem in the taskbar. |
 | **0.9.8** | Repairs itself after Discord updates, update check, plugin store, server sharing, quiet hours, focus mode, one-file Linux setup. |
 | **0.9.7** | The Garage with real car renders, rain and thunderstorm, first Android app. |
@@ -186,6 +191,7 @@ A free Apple ID refreshes it every 7 days by itself.
 | Problem | Fix |
 |---|---|
 | Nexocord is gone after a Discord update | Click the Nexocord notification, or **Nexocord Setup → Repair**. |
+| Discord stays blank after its 13 November update | Fixed in 0.9.11. Run the newest installer once. |
 | The installer says *"Unpatching… Failed"* | Fixed in 0.9.10. Get the newest installer and run it again. |
 | A plugin breaks Discord | **Nexocord Setup → Safe mode**: imported plugins pause. |
 | Plain Discord, just once | **Nexocord Setup → Start without mods.** Nothing gets removed. |
